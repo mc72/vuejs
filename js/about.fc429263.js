@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvuejs"]=self["webpackChunkvuejs"]||[]).push([[443],{665:function(u,e,n){n.r(e),n.d(e,{default:function(){return l}});var s=n(252);const r={class:"about"},t=(0,s._)("h1",null,"This is an About Page user Vue Router.",-1),a=[t];function c(u,e){return(0,s.wg)(),(0,s.iD)("div",r,a)}var i=n(744);const o={},f=(0,i.Z)(o,[["render",c]]);var l=f}}]);
+//# sourceMappingURL=about.fc429263.js.map
